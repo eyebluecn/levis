@@ -1,0 +1,33 @@
+{
+  "name": "Levis",
+  "authors": [
+    "lishuang <lish516@126.com>"
+  ],
+  "description": "This is the levis project",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "h5"
+  ],
+  "license": "MIT",
+  "homepage": "levis.liyarou.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "zepto": "^1.1.6",
+    "PreloadJS": "^0.6.2",
+    "SoundJS": "^0.6.2",
+    "swiper": "^3.4.0"
+  },
+  "devDependencies": {
+  }
+}
