@@ -4,7 +4,7 @@
 
 ### 在线Demo
 
-![](https://raw.githubusercontent.com/zicla/levis/master/img/qcode.png) 
+![](https://raw.githubusercontent.com/eyebluecn/levis/master/img/qcode.png) 
 
 扫描上方二维码开始游戏
 
